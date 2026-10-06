@@ -1,0 +1,20 @@
+{
+  "report_rewritten": false,
+  "files": [
+    {
+      "file": "医用抗菌水凝胶_课程报告.docx",
+      "bytes": 55770,
+      "sha256": "bd41492b95051f8d3bb9d8ea66ef718624f587b9f95147b065db5f4db507682f",
+      "identical_to_existing_source": true
+    },
+    {
+      "file": "医用抗菌水凝胶_课程报告.pdf",
+      "bytes": 691847,
+      "sha256": "18c24ff427b90bd06f569989d8cbb92576d3cc62f9a6ec14b851916965793638",
+      "identical_to_existing_source": true
+    }
+  ],
+  "docx_zip_crc": "PASS",
+  "pdf_pages": 14,
+  "pdf_font_note": "PDF预览使用Noto Serif CJK替代宋体；DOCX原件字体声明为宋体。"
+}

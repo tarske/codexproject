@@ -1,16 +1,16 @@
 {
-  "revision": "正文语言编辑与化工工艺分析增强",
-  "body_chinese_characters": 7276,
+  "revision": "局部语言调整与三处化工模型分析",
+  "body_chinese_characters": 7649,
   "files": [
     {
       "file": "医用抗菌水凝胶_课程报告.docx",
-      "bytes": 55068,
-      "sha256": "ee62295ed754e30c1e56a99fe16f6e694024a9b6ac2bcb271f7f70253bf0833b"
+      "bytes": 56050,
+      "sha256": "18b1f8a2f9a0c2eae374bfc698c8613d1761e3fa6a998205154352cc718aaf8b"
     },
     {
       "file": "医用抗菌水凝胶_课程报告.pdf",
-      "bytes": 676679,
-      "sha256": "2d317cf680fad1c5ed4d69cef39a31f5f9c0e151a7a7adcd0f4c6c37cf7ae7f4"
+      "bytes": 708450,
+      "sha256": "fe3163bedc9a5b44ad3c529bf85ef4a1bf44a250d7e71c99cf6210f05b2f62be"
     }
   ],
   "docx_zip_crc": "PASS",
@@ -18,5 +18,12 @@
   "references_and_tables_unchanged": true,
   "existing_quantitative_claims_preserved": true,
   "editorial_skill": "https://github.com/op7418/Humanizer-zh",
-  "pdf_font_note": "PDF预览使用Noto Serif CJK替代宋体；DOCX字体声明为宋体。"
+  "pdf_font_note": "PDF预览使用Noto Serif CJK替代宋体；DOCX字体声明为宋体。",
+  "editable_office_math_elements": 16,
+  "models": [
+    "一维扩散特征时间尺度",
+    "幂律流变与表观黏度",
+    "混合与成胶时间尺度比"
+  ],
+  "model_parameters_fabricated": false
 }

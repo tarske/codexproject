@@ -1,0 +1,42 @@
+{
+  "scope": "现有OMML字体及独立公式布局调整，添加编号；不重写正文",
+  "source": "医用抗菌水凝胶_课程报告.docx",
+  "source_sha256": "18b1f8a2f9a0c2eae374bfc698c8613d1761e3fa6a998205154352cc718aaf8b",
+  "source_unchanged": true,
+  "candidate_files": [
+    {
+      "file": "医用抗菌水凝胶_课程报告_公式编号版.docx",
+      "bytes": 56908,
+      "sha256": "167e5038c55e717abf4e7c0595b86d3bb0f528f187785cdd29787e0d741e9f39"
+    },
+    {
+      "file": "医用抗菌水凝胶_课程报告_公式编号版.pdf",
+      "bytes": 709756,
+      "sha256": "d6c61628735a61638464e74c6e9603ba91cb9ff6c920d82f8f3dbeb7e0648e21"
+    }
+  ],
+  "omml_count": 16,
+  "display_equation_numbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "numbering": "普通文本编号；增删独立公式后需手动调整",
+  "font": "Cambria Math",
+  "math_size_pt": 12,
+  "unchanged_mathematical_content": true,
+  "unchanged_non_formula_paragraphs": true,
+  "changed_ooxml_parts": [
+    "word/document.xml"
+  ],
+  "skill_audit": "PASS",
+  "strict_ooxml_validation": "PASS",
+  "libreoffice_open_and_export": "PASS",
+  "visual_pdf_review": "PASS",
+  "pdf_pages": 14,
+  "native_microsoft_word_validation": "NOT_RUN",
+  "skill_workflow_status": "Portable checks passed; pending native Microsoft Word validation",
+  "skill": "https://github.com/handpeng/word-formula-omml/blob/main/SKILL.md",
+  "skill_commit": "386861dd2b6a08fd03658107331c3a589fcbbaca"
+}

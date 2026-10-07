@@ -1,5 +1,14 @@
 # 课程报告交付文件
 
+## 公式编号版（当前推荐下载）
+
+- [医用抗菌水凝胶_课程报告_公式编号版.docx](医用抗菌水凝胶_课程报告_公式编号版.docx)：56,908字节。
+- [医用抗菌水凝胶_课程报告_公式编号版.pdf](医用抗菌水凝胶_课程报告_公式编号版.pdf)：14页，709,756字节。
+
+参考[word-formula-omml skill](https://github.com/handpeng/word-formula-omml/blob/main/SKILL.md)，保留16处原生可编辑OMML，统一为Cambria Math、12 pt；4个独立公式居中，编号（1）—（4）右对齐。编号为普通文本，增删公式后需调整。
+
+仅修改DOCX内的word/document.xml；原文件、正文、文献、表格及数学内容保留。skill审计、OOXML校验及LibreOffice读取和PDF预览通过。该skill要求Microsoft Word原生检查；当前环境没有Microsoft Word，此项未执行，不能宣称已通过Word原生验收。详情见`公式格式检查.json`。
+
 - [医用抗菌水凝胶_课程报告.docx](医用抗菌水凝胶_课程报告.docx)：可编辑Word文件，56,050字节。
 - [医用抗菌水凝胶_课程报告.pdf](医用抗菌水凝胶_课程报告.pdf)：同一DOCX转换的PDF，14页，708,450字节。
 - `manifest.json`：文件大小、SHA-256及检查记录。

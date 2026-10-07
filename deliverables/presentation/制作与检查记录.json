@@ -1,0 +1,42 @@
+{
+  "source_file": "医用抗菌水凝胶_课程报告 (3).docx",
+  "source_sha256": "1726d78637d29631eaa45dabe299d0e8783724ac11ad95c4a47780bdc1b8dde7",
+  "slide_count": 9,
+  "main_slides": 7,
+  "backup_slides": 2,
+  "nominal_main_seconds": 180,
+  "speaker_notes_pages": 9,
+  "used_references": {
+    "1": "[1] GOUNDEN V, SINGH M. Hydrogels and Wound Healing: Current and Future Prospects. Gels, 2024, 10(1): 43. DOI: 10.3390/gels10010043.",
+    "3": "[3] JIA B, LI G, CAO E, et al. Recent progress of antibacterial hydrogels in wound dressings. Materials Today Bio, 2023, 19: 100582. DOI: 10.1016/j.mtbio.2023.100582.",
+    "7": "[7] ZHONG Y, LIN Q, YU H, et al. Construction methods and biomedical applications of PVA-based hydrogels. Frontiers in Chemistry, 2024, 12: 1376799. DOI: 10.3389/fchem.2024.1376799.",
+    "8": "[8] YANG Y, LIANG Y, CHEN J, et al. Mussel-inspired adhesive antioxidant antibacterial hemostatic composite hydrogel wound dressing via photo-polymerization for infected skin wound healing. Bioactive Materials, 2022, 8: 341-354. DOI: 10.1016/j.bioactmat.2021.06.014.",
+    "9": "[9] QIAO L, LIANG Y, CHEN J, et al. Antibacterial conductive self-healing hydrogel wound dressing with dual dynamic bonds promotes infected wound healing. Bioactive Materials, 2023, 30: 129-141. DOI: 10.1016/j.bioactmat.2023.07.015.",
+    "12": "[12] ZHOU X, YU X, YOU T, et al. 3D Printing‐Based Hydrogel Dressings for Wound Healing. Advanced Science, 2024, 11(47): 2404580. DOI: 10.1002/advs.202404580.",
+    "13": "[13] CHEN X, ZHOU Y, ZHOU S, et al. 3D printing of chitosan hydrogel reinforced with tubular nanoclay for hemostasis and infected wound healing. Bioactive Materials, 2025, 54: 404-422. DOI: 10.1016/j.bioactmat.2025.08.024.",
+    "14": "[14] PRANANTYO D, YEO C K, WU Y, et al. Hydrogel dressings with intrinsic antibiofilm and antioxidative dual functionalities accelerate infected diabetic wound healing. Nature Communications, 2024, 15(1): 954. DOI: 10.1038/s41467-024-44968-y.",
+    "15": "[15] PRANANTYO D, YEO C K, WU Y, et al. Author Correction: Hydrogel dressings with intrinsic antibiofilm and antioxidative dual functionalities accelerate infected diabetic wound healing. Nature Communications, 2025, 16(1): 9047. DOI: 10.1038/s41467-025-64329-7.",
+    "16": "[16] ZENG Q, QIAN Y, HUANG Y, et al. Polydopamine nanoparticle-dotted food gum hydrogel with excellent antibacterial activity and rapid shape adaptability for accelerated bacteria-infected wound healing. Bioactive Materials, 2021, 6(9): 2647-2657. DOI: 10.1016/j.bioactmat.2021.01.035.",
+    "17": "[17] LI Y, FU R, DUAN Z, et al. Construction of multifunctional hydrogel based on the tannic acid-metal coating decorated MoS2 dual nanozyme for bacteria-infected wound healing. Bioactive Materials, 2022, 9: 461-474. DOI: 10.1016/j.bioactmat.2021.07.023.",
+    "20": "[20] ZHANG H, LIANG Q, JI Y, et al. Facile fabrication of antioxidative and antibacterial hydrogel films to accelerate infected diabetic wound healing. Bioactive Materials, 2025, 53: 386-403. DOI: 10.1016/j.bioactmat.2025.07.026."
+  },
+  "reference_numbers_follow_uploaded_word": true,
+  "zip_integrity": "PASS",
+  "slide_geometry": "PASS",
+  "pdf_text_bounds": "PASS",
+  "native_powerpoint_validation": "NOT_RUN",
+  "font": "Noto Sans CJK SC",
+  "skill": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/scientific-slides",
+  "files": [
+    {
+      "name": "医用抗菌水凝胶_课题汇报.pptx",
+      "bytes": 351538,
+      "sha256": "54d0733c32c2eb5c36ac10ac3d50979614fdd62eadc4d2543c7a7fc64e3d01aa"
+    },
+    {
+      "name": "医用抗菌水凝胶_课题汇报.pdf",
+      "bytes": 522153,
+      "sha256": "aff1e68622c534fb298ff5a8635fa02bca5100fb4cec9e07962974ef4e9f7c07"
+    }
+  ]
+}

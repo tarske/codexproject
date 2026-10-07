@@ -1,42 +1,118 @@
 {
-  "source_file": "医用抗菌水凝胶_课程报告 (3).docx",
-  "source_sha256": "1726d78637d29631eaa45dabe299d0e8783724ac11ad95c4a47780bdc1b8dde7",
-  "slide_count": 9,
-  "main_slides": 7,
-  "backup_slides": 2,
-  "nominal_main_seconds": 180,
-  "speaker_notes_pages": 9,
-  "used_references": {
-    "1": "[1] GOUNDEN V, SINGH M. Hydrogels and Wound Healing: Current and Future Prospects. Gels, 2024, 10(1): 43. DOI: 10.3390/gels10010043.",
-    "3": "[3] JIA B, LI G, CAO E, et al. Recent progress of antibacterial hydrogels in wound dressings. Materials Today Bio, 2023, 19: 100582. DOI: 10.1016/j.mtbio.2023.100582.",
-    "7": "[7] ZHONG Y, LIN Q, YU H, et al. Construction methods and biomedical applications of PVA-based hydrogels. Frontiers in Chemistry, 2024, 12: 1376799. DOI: 10.3389/fchem.2024.1376799.",
-    "8": "[8] YANG Y, LIANG Y, CHEN J, et al. Mussel-inspired adhesive antioxidant antibacterial hemostatic composite hydrogel wound dressing via photo-polymerization for infected skin wound healing. Bioactive Materials, 2022, 8: 341-354. DOI: 10.1016/j.bioactmat.2021.06.014.",
-    "9": "[9] QIAO L, LIANG Y, CHEN J, et al. Antibacterial conductive self-healing hydrogel wound dressing with dual dynamic bonds promotes infected wound healing. Bioactive Materials, 2023, 30: 129-141. DOI: 10.1016/j.bioactmat.2023.07.015.",
-    "12": "[12] ZHOU X, YU X, YOU T, et al. 3D Printing‐Based Hydrogel Dressings for Wound Healing. Advanced Science, 2024, 11(47): 2404580. DOI: 10.1002/advs.202404580.",
-    "13": "[13] CHEN X, ZHOU Y, ZHOU S, et al. 3D printing of chitosan hydrogel reinforced with tubular nanoclay for hemostasis and infected wound healing. Bioactive Materials, 2025, 54: 404-422. DOI: 10.1016/j.bioactmat.2025.08.024.",
-    "14": "[14] PRANANTYO D, YEO C K, WU Y, et al. Hydrogel dressings with intrinsic antibiofilm and antioxidative dual functionalities accelerate infected diabetic wound healing. Nature Communications, 2024, 15(1): 954. DOI: 10.1038/s41467-024-44968-y.",
-    "15": "[15] PRANANTYO D, YEO C K, WU Y, et al. Author Correction: Hydrogel dressings with intrinsic antibiofilm and antioxidative dual functionalities accelerate infected diabetic wound healing. Nature Communications, 2025, 16(1): 9047. DOI: 10.1038/s41467-025-64329-7.",
-    "16": "[16] ZENG Q, QIAN Y, HUANG Y, et al. Polydopamine nanoparticle-dotted food gum hydrogel with excellent antibacterial activity and rapid shape adaptability for accelerated bacteria-infected wound healing. Bioactive Materials, 2021, 6(9): 2647-2657. DOI: 10.1016/j.bioactmat.2021.01.035.",
-    "17": "[17] LI Y, FU R, DUAN Z, et al. Construction of multifunctional hydrogel based on the tannic acid-metal coating decorated MoS2 dual nanozyme for bacteria-infected wound healing. Bioactive Materials, 2022, 9: 461-474. DOI: 10.1016/j.bioactmat.2021.07.023.",
-    "20": "[20] ZHANG H, LIANG Q, JI Y, et al. Facile fabrication of antioxidative and antibacterial hydrogel films to accelerate infected diabetic wound healing. Bioactive Materials, 2025, 53: 386-403. DOI: 10.1016/j.bioactmat.2025.07.026."
+  "source_document": {
+    "name": "医用抗菌水凝胶_课程报告 (3).docx",
+    "sha256": "1726d78637d29631eaa45dabe299d0e8783724ac11ad95c4a47780bdc1b8dde7"
   },
-  "reference_numbers_follow_uploaded_word": true,
-  "zip_integrity": "PASS",
-  "slide_geometry": "PASS",
-  "pdf_text_bounds": "PASS",
-  "native_powerpoint_validation": "NOT_RUN",
-  "font": "Noto Sans CJK SC",
+  "presentation": {
+    "title": "医用抗菌水凝胶：制备工艺、抗菌机制及性能调控研究进展",
+    "slide_count": 10,
+    "main_slides": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "backup_slides": [
+      9,
+      10
+    ],
+    "5_minute_main_seconds": 277,
+    "2_minute_plan_seconds": 120,
+    "aspect_ratio": "16:9"
+  },
+  "references_used": {
+    "11": "Yang et al., Advanced Science, 2021, DOI 10.1002/advs.202003627",
+    "13": "Chen et al., Bioactive Materials, 2025, DOI 10.1016/j.bioactmat.2025.08.024",
+    "14": "Pranantyo et al., Nature Communications, 2024, DOI 10.1038/s41467-024-44968-y",
+    "15": "Pranantyo et al., Nature Communications, 2025, correction, DOI 10.1038/s41467-025-64329-7",
+    "20": "Zhang et al., Bioactive Materials, 2025, DOI 10.1016/j.bioactmat.2025.07.026"
+  },
+  "evidence_handling": {
+    "R19_viscosity_values_Pa_s_at_0.1_s-1": [
+      1633.7,
+      5379.8
+    ],
+    "R19_print_line_width_expansion_ratio": [
+      1.7,
+      1.1
+    ],
+    "R17_MRSA_log_CFU_reduction_relative_to_PBS": 4.75,
+    "R17_E_coli_log_CFU_reduction_relative_to_PBS": 5.13,
+    "R17_in_vitro_conditions": "6 h, 37 °C; n=3; source reports mean ± SD for colony counts",
+    "R17_tensile_strength_MPa_TA_0_and_1_wt_percent": [
+      "0.06 ± 0.01",
+      "0.2 ± 0.04"
+    ],
+    "R17_pig_skin_shear_adhesion_kPa_TA_0.25_0.50_1.00_wt_percent": [
+      "3.28 ± 0.28",
+      "3.96 ± 0.20",
+      "5.37 ± 0.65"
+    ],
+    "R17_error_reporting": "native charts redrawn from published mean and standard deviation; no raw replicate values invented",
+    "effective_diffusion_coefficient": "not reported in cited study; not estimated",
+    "mechanism_boundary": "membrane interaction phrased as possible; morphology alone does not establish a complete molecular pathway"
+  },
+  "figures": [
+    {
+      "source": "Yang et al. 2021, Fig. 1c-e, ref [11]",
+      "use": "cropped demonstration image; CC BY 4.0; caption states not a clinical photograph"
+    },
+    {
+      "source": "Zhang et al. 2025, Fig. 3, ref [20]",
+      "use": "complete source figure, unmodified"
+    },
+    {
+      "source": "Zhang et al. 2025, Fig. 4, ref [20]",
+      "use": "complete source figure, unmodified"
+    },
+    {
+      "source": "Zhang et al. 2025, Fig. 2i,j,m,n, ref [20]",
+      "use": "editable plots reconstructed from reported mean/SD values; raw replicate values not supplied"
+    }
+  ],
+  "validation": {
+    "pptx_zip_test": "PASS",
+    "pptx_slide_and_notes_xml": "PASS",
+    "pdf_pages": 10,
+    "visual_review": "all slides rendered from LibreOffice PDF and visually inspected",
+    "scientific_slides_validator": "PASS; warning: 10 total includes 2 backup pages; source footers/chart annotations use smaller text",
+    "checks": "fonts, text clipping, source notes, counts, and package reviewed; not verified in native Microsoft PowerPoint"
+  },
   "skill": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/scientific-slides",
   "files": [
     {
       "name": "医用抗菌水凝胶_课题汇报.pptx",
-      "bytes": 351538,
-      "sha256": "54d0733c32c2eb5c36ac10ac3d50979614fdd62eadc4d2543c7a7fc64e3d01aa"
+      "bytes": 1587960,
+      "sha256": "e17d34f50209a249e785647e747f87b942f5d94508f7e3992cf00112619008d2"
     },
     {
       "name": "医用抗菌水凝胶_课题汇报.pdf",
-      "bytes": 522153,
-      "sha256": "aff1e68622c534fb298ff5a8635fa02bca5100fb4cec9e07962974ef4e9f7c07"
+      "bytes": 812627,
+      "sha256": "3e3416ebc2f356e4583f9948af6bad848c6bc59e3789d0b50db6fec9b60ee678"
+    },
+    {
+      "name": "汇报PPT_总览.png",
+      "bytes": 547898,
+      "sha256": "f2a77937e579b889fd9c715d4b091219c84200fc5a894379a91857fd59c248be"
+    },
+    {
+      "name": "汇报讲稿与时间安排.md",
+      "bytes": 4360,
+      "sha256": "f7b1f670a9511fdd5732b9a5f7c6c8606134880046af22a0a48b08499a2bb70a"
+    },
+    {
+      "name": "公式LaTeX源.tex",
+      "bytes": 129,
+      "sha256": "bacfadcbae5ec3c90d847cc51d5a984694e1c650441e81466ec3acecc43d97a8"
+    },
+    {
+      "name": "README.md",
+      "bytes": 2867,
+      "sha256": "898ec69f7fbb13cf5ca71747d68754cde84d9d825ee7269fd64466c83227674e"
     }
   ]
 }
